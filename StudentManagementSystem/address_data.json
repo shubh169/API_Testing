@@ -1,0 +1,39 @@
+{
+  "Permanent_Address": {
+    "House_Number": "C10",
+    "City": "Muzaffarnagar",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "+91",
+        "Home": "654897",
+        "Mobile": "7355435764"
+      },
+      {
+        "Std_Code": "0131",
+        "Home": "985678",
+        "Mobile": "98765743256"
+      }
+    ]
+  },
+  "Current_Address": {
+    "House_Number": "CC 49",
+    "City": "Ghaziabad",
+    "State": "Uttar Pradesh",
+    "Country": "India",
+    "PhoneNumber": [
+      {
+        "Std_Code": "0120",
+        "Home": "785434",
+        "Mobile": "1234567890"
+      },
+      {
+        "Std_Code": "0120",
+        "Home": "653897",
+        "Mobile": "9876543210"
+      }
+    ]
+  },
+  "stId": "10292748"
+}
